@@ -1,0 +1,9 @@
+.vs/*
+.vscode/*
+
+*.cache
+#
+**/Logs/
+**/PublishProfiles/
+**/bin/
+**/obj/

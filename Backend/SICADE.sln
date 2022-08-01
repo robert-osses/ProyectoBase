@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sicade.Web", "Sicade.Web\Sicade.Web.csproj", "{C5C00EAA-C03B-4482-B210-BC2DDCF602E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sicade.Entidades", "Sicade.entidades\Sicade.Entidades.csproj", "{7F7A1960-9823-4C8A-B6EB-E0B0834D3D74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sicade.Datos", "Sicade.datos\Sicade.Datos.csproj", "{91C85A4A-1571-47DB-B8C4-6EBC3E4702FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C00EAA-C03B-4482-B210-BC2DDCF602E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C00EAA-C03B-4482-B210-BC2DDCF602E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C00EAA-C03B-4482-B210-BC2DDCF602E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C00EAA-C03B-4482-B210-BC2DDCF602E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7A1960-9823-4C8A-B6EB-E0B0834D3D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7A1960-9823-4C8A-B6EB-E0B0834D3D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7A1960-9823-4C8A-B6EB-E0B0834D3D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7A1960-9823-4C8A-B6EB-E0B0834D3D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C85A4A-1571-47DB-B8C4-6EBC3E4702FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C85A4A-1571-47DB-B8C4-6EBC3E4702FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C85A4A-1571-47DB-B8C4-6EBC3E4702FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C85A4A-1571-47DB-B8C4-6EBC3E4702FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
